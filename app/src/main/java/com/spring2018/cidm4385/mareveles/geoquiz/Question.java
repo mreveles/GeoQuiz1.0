@@ -3,7 +3,7 @@ package com.spring2018.cidm4385.mareveles.geoquiz;
 /**
  * Created by Miguel on 1/28/2018.
  */
-
+//comment to commit to gitHub
 public class Question {
     private int mTextResId;
     private boolean mAnswerTrue;
